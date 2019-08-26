@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/IMKINGJS/github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to my portfolio website
+I am Kingsley Arinze Ibe.
+I am a certified IT Support specialist who has great passion for AI. I have being using this time to learn since my current job is not stable, and I want to become a data scientist as soon as possibe, and that is why I'm learning on the path. I have basic knowledge of JavaScript, and deep knowledge of HTML and CSS.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
