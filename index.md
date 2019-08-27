@@ -1,8 +1,24 @@
-## Welcome to my portfolio website
+### Welcome to my portfolio website
 I am Kingsley Arinze Ibe.
-I am a certified IT Support specialist who has great passion for AI. I have being using this time to learn since my current job is not stable, and I want to become a data scientist as soon as possibe, and that is why I'm learning on the path. I have basic knowledge of JavaScript, and deep knowledge of HTML and CSS.
+I am a certified IT Support specialist who has great passion for AI. I have being using this time to learn since my current job is not stable. I'm happy to share with you that I've completed some great courses in Data Science, and this has helped me to understand the field better. Also, I've solid JavaScript foundation, and I know CSS and HTML very well.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Below is the list of skills I've got through and learning and experience.
+
+# Data science
+# Artificial Intelligent
+# Machine Learning
+# IT Project Management
+# CSS & HTML
+# JavaScript
+# Python for AI
+# Data Science Methodology
+# Data Visualization with Python
+# Databases and SQL for Data Science
+# Introduction to AI
+# Open Source tool for data science
+# System Administration and IT Infrasructure services
+# IT Security
+# IT Support
 
 ### Markdown
 
