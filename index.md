@@ -19,7 +19,7 @@ I'm a certified IT Support specialist who has great passion for AI. I have being
 ### System Administration and IT Infrasructure services
 ### IT Security
 ### IT Support
-
+# work in progress...
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
