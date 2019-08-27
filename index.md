@@ -4,21 +4,21 @@ I am a certified IT Support specialist who has great passion for AI. I have bein
 
 ### Below is the list of skills I've got through and learning and experience.
 
-# Data science
-# Artificial Intelligent
-# Machine Learning
-# IT Project Management
-# CSS & HTML
-# JavaScript
-# Python for AI
-# Data Science Methodology
-# Data Visualization with Python
-# Databases and SQL for Data Science
-# Introduction to AI
-# Open Source tool for data science
-# System Administration and IT Infrasructure services
-# IT Security
-# IT Support
+ Data science
+ Artificial Intelligent
+ Machine Learning
+ IT Project Management
+ CSS & HTML
+ JavaScript
+ Python for AI
+ Data Science Methodology
+ Data Visualization with Python
+ Databases and SQL for Data Science
+ Introduction to AI
+ Open Source tool for data science
+ System Administration and IT Infrasructure services
+ IT Security
+ IT Support
 
 ### Markdown
 
